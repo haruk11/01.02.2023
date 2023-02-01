@@ -1,0 +1,94 @@
+#include <iostream>
+using namespace std;
+
+
+//int main() {
+	/*int a1, a2;
+
+	cin >> a1 >> a2;
+	if (a1 > a2)
+	{
+		cout << "pirmais skaitlis ir maksimalais" << endl;
+	}
+	else cout << "otrais skaitlis ir minimalais" << endl;
+	if (a1 < 0)
+	{
+		cout << "Skaitlis ir negativi" << endl;
+	}
+	else cout << "Otra skaitlis ir pozitivi" << endl;
+	if (a1 % 2 == 0)
+	{
+		cout << "Pirmais skaitlis ir para";
+	}
+	else cout << "Nav para";
+	if (a2 % 2 == 0)
+	{
+		cout << "Otrais skaitlis ir para";
+	}
+	else cout << "Nav para";
+
+
+	return 0;
+}*/
+//int main()
+//{
+//	int x;
+//	cout << "uzraksti jusu procentus";
+//	cin >> x;
+//
+//	if (x >= 90) {
+//		cout << "grade a";
+//	}
+//	if (x >= 80 && x < 90) {
+//		cout << "grade c";
+//	}
+//	if (x >= 60 && x < 70) {
+//		cout << "grade e";
+//	}
+//	if (x < 40) {
+//		cout << "grade f";
+//	}
+//}
+//int main()
+//{
+//	int a, a1;
+//	cout << "attiecigo dienu: ";
+//	cin >> a;
+//	if (a == 1) { cout << "1-pirmdiena" << endl; } 
+//	if (a == 2) { cout << "2 - otrdiena"; }
+//	if (a == 3) { cout << "3 - tresdiena"; }
+//	if (a == 4) { cout << "4 - ceturdiena"; }
+//	if (a == 5) { cout << "5 - piektdiena"; }
+//	if (a == 6) { cout << "6 - sestdiena"; }
+//	if (a == 7) { cout << "7 - svetdiena"; }
+//	cout << "attiecigo menesu: ";
+//	cin >> a1;
+//	if (a1 == 1) { cout << "1 - janvari"; }
+//	if (a1 == 2) { cout << "2 - februari"; }
+//	if (a1 == 3) { cout << "3 - marts"; }
+//	if (a1 == 4) { cout << "4 - aprilis"; }
+//	if (a1 == 5) { cout << "5 - majs"; }
+//	if (a1 == 6) { cout << "6 - junija"; }
+//	if (a1 == 7) { cout << "7 - julija"; }
+//	if (a1 == 8) { cout << "8 - august"; }
+//	if (a1 == 9) { cout << "9 - septembri"; }
+//	if (a1 == 10) { cout << "10 - oktobri"; }
+//	if (a1 == 11) { cout << "11 - novembri"; }
+//	if (a1 == 12) { cout << "12 - decembri"; }
+//
+//}
+
+int main()
+{
+	int a, a1, a2;
+	cout << "1 mala:    ";
+	cin >> a;
+	cout >> "2 mala:   ";
+	cin >> a1;
+	cout << "3 mala:   ";
+	cin >> a2;
+	if (a == a1 == a2) { cout << "vienadmalu trijsturi"; }
+
+
+
+}
