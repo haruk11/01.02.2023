@@ -1,0 +1,60 @@
+#include <iostream>
+#include <vector>
+using namespace std;
+int main()
+{
+	//	vector<string>a("galds","skapis", "kresls", "lampa", "dators", "durvis");
+	//		int i = 0;
+	//			
+	//		a.pop_back();
+	//		a.at(4) = "laptop";
+	//		a.push_back("logu");
+	//
+	//		i = 0;
+	//		do {
+	//			cout << a[i];
+	//			i++;
+	//		} while (i < a.size());
+	//		
+	//}
+//string f;
+//vector<string>a{"UK", "USA", "China", "India", "Canada", "Australia"};
+//vector<string>b{ "+44", "+1", "+86", "+91", "+1", "+61" };
+//cout << "Valsts";
+//int i = 0;
+//int k = 0;
+//cin >> f;
+//if (f == a[0]) { cout << b[0]; }
+//if (f == a[1]) { cout << b[1]; }
+//if (f == a[2]) { cout << b[2]; }
+//if (f == a[3]) { cout << b[3]; }
+//if (f == a[4]) { cout << b[4]; }
+//if (f == a[5]) { cout << b[5]; }
+//if (f != a[i]) { cout << "nav šaja valsta"; }
+//a.pop_back();
+//a.at(1) = "Igaunija";
+//a.push_back("Latvia");
+//b.pop_back();
+//b.at(1) = "+372";
+//b.push_back("371");
+//do {
+//	cout << a[1];
+//	i++;
+//} while (i < a.size());
+//	do {
+//		cout << b[k];		k++;
+//	} while (k < b.size());
+
+
+string f;
+vector<string>a{ 3,8,7,4 };
+vector<string>b{ "Anna", "Antons", "Vlads","Artemijs" };
+cout << "Names";
+cin >> f;
+if (f == a[3) { cout << b[1;}
+if (f == a[8) { cout << b[2];}
+if (f == a[7]) { cout << b[3];}
+if (f == a[4]) { cout << b[4];}
+
+}
+
